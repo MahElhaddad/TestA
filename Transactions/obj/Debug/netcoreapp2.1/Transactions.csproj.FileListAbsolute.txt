@@ -1,0 +1,14 @@
+C:\Users\mah-elhaddad\source\repos\Transactions\Transactions\bin\Debug\netcoreapp2.1\Transactions.deps.json
+C:\Users\mah-elhaddad\source\repos\Transactions\Transactions\bin\Debug\netcoreapp2.1\Transactions.runtimeconfig.json
+C:\Users\mah-elhaddad\source\repos\Transactions\Transactions\bin\Debug\netcoreapp2.1\Transactions.runtimeconfig.dev.json
+C:\Users\mah-elhaddad\source\repos\Transactions\Transactions\bin\Debug\netcoreapp2.1\Transactions.dll
+C:\Users\mah-elhaddad\source\repos\Transactions\Transactions\bin\Debug\netcoreapp2.1\Transactions.pdb
+C:\Users\mah-elhaddad\source\repos\Transactions\Transactions\obj\Debug\netcoreapp2.1\Transactions.csproj.CoreCompileInputs.cache
+C:\Users\mah-elhaddad\source\repos\Transactions\Transactions\obj\Debug\netcoreapp2.1\Transactions.RazorAssemblyInfo.cache
+C:\Users\mah-elhaddad\source\repos\Transactions\Transactions\obj\Debug\netcoreapp2.1\Transactions.RazorAssemblyInfo.cs
+C:\Users\mah-elhaddad\source\repos\Transactions\Transactions\obj\Debug\netcoreapp2.1\Transactions.AssemblyInfoInputs.cache
+C:\Users\mah-elhaddad\source\repos\Transactions\Transactions\obj\Debug\netcoreapp2.1\Transactions.AssemblyInfo.cs
+C:\Users\mah-elhaddad\source\repos\Transactions\Transactions\obj\Debug\netcoreapp2.1\Transactions.RazorTargetAssemblyInfo.cache
+C:\Users\mah-elhaddad\source\repos\Transactions\Transactions\obj\Debug\netcoreapp2.1\Transactions.dll
+C:\Users\mah-elhaddad\source\repos\Transactions\Transactions\obj\Debug\netcoreapp2.1\Transactions.pdb
+C:\Users\mah-elhaddad\source\repos\Transactions\Transactions\obj\Debug\netcoreapp2.1\Transactions.csprojAssemblyReference.cache
